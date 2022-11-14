@@ -1,4 +1,4 @@
-import os
+
 from func import choose, playlist_read
 
 if os.path.exists('Playlist'):
